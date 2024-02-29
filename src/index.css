@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* * {
+  border: none;
+  outline: none;
+} */
+.scroll {
+  overflow: scroll;
+  scrollbar-width: none;
+  scroll-behavior: smooth;
+  padding-bottom: 1px;
+}
