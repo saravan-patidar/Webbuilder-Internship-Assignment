@@ -1,4 +1,15 @@
+# Web Builder Figma to web Page 
+[Demo](https://saravan-webbuilder.netlify.app/)
+
 # React + Vite
+
+Install React+vite
+
+``` npm install create vite@latest```
+
+``` npm install ```
+
+``` npm run dev```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
